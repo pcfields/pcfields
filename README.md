@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... React, Elm, Typescript.
-- 🌱 I’m currently learning ... Elm,
-
-- https://exercism.org/profiles/pcfields
-- https://www.codewars.com/users/pcfields
+- 🔭 I’m currently working on ... React, Typescript.
 
 <!--
 **pcfields/pcfields** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- https://exercism.org/profiles/pcfields
+- https://www.codewars.com/users/pcfields
 
 Here are some ideas to get you started:
 
